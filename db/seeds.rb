@@ -1,6 +1,3 @@
-Article.delete_all
-Comment.delete_all
-
 VALID_STATUSES = ['public', 'private', 'archived']
 
 # Create articles

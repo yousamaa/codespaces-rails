@@ -1,6 +1,7 @@
 # Blog App
 
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails) ![Deployed on Fly](https://img.shields.io/badge/-Deployed%20on%20Fly-6f42c1?style=for-the-badge)
+[![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby-on-rails)](https://guides.rubyonrails.org/getting_started.html)
+[![Deployed on Fly](https://img.shields.io/badge/-Deployed%20on%20Fly-6f42c1?style=for-the-badge)](https://shy-sea-5656.fly.dev/)
 
 Blog App is a simple blogging application built with Ruby on Rails, inspired by the [Ruby on Rails Getting Started Guide](https://guides.rubyonrails.org/getting_started.html). You can create, edit, and delete articles, as well as add comments to articles. It's a great starter app for those new to Ruby on Rails or web development in general.
 

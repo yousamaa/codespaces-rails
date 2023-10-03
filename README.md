@@ -64,6 +64,10 @@ http://localhost:3000
 
 The application is deployed on [Fly.io](https://fly.io). To deploy your own version, follow the instructions in the [Fly.io documentation](https://fly.io/docs/getting-started/rails/).
 
+## CI
+
+The application is configured for CI using GitHub Actions.
+
 ## Built With
 
 - [Ruby on Rails](https://rubyonrails.org/) - The web framework used
